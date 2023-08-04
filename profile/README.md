@@ -1,6 +1,6 @@
-# Observability and Reliability made simple
+# Observability made simple
 
-## Xility is a low-code observability and reliability platform for software products
+## Xility is a low-code observability platform for software products
 We help you improve your product with data and ensure it is always online.
 Start collecting metrics, registering events and fire alerts with few lines of code:
 
